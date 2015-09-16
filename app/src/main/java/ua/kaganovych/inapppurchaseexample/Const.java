@@ -1,0 +1,7 @@
+package ua.kaganovych.inapppurchaseexample;
+
+public class Const {
+
+    public static final String PURCHASE_PUBLIC_KEY = "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAh9Onbo87b/hLmWl4hmjrc+DhJv8/E6WioTeILZDWEzqsEiN04S+cvgCrH6mVFCfXRlxG3pIKVSfAJY/m+6X8MWjWyW3I87FXzT9UOiEJ1c1+GvvtTbYcfGX5y2UcUcoMVaXpf+7JrMwx01CmFm4pmOdko0vRzIZdKC4uC+q7fEO57JBmSSdbRfaUdeS3syVPDKel4u1cxcbl7/YdEGIHBX+alOiu6BnEkcPk560LdfMwt/3euGb2wp94wAxgPh0wlfax/BBNwvtTOhhTfJKMPQ2bzaO/DfLecip89lu2T5Nc9A/qqO72RblxhYWZVox6ckBuMGt23O414wK+SUzbiQIDAQAB";
+
+}
